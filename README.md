@@ -1,7 +1,3 @@
-Here’s a clean and concise description for your GitHub project:
-
----
-
 # Renal CT Scan Classification using Deep Learning
 
 This project focuses on the classification of renal CT scans into four categories: **stone**, **tumor**, **cyst**, and **normal** using deep learning techniques.
@@ -41,6 +37,10 @@ We applied a **Convolutional Neural Network (CNN)** for classification and **YOL
 - Install the dependencies using `npm install`.
 - Run the Vue.js development server using `npm run dev`.
 
----
+## 📊 Results
+Through our experiments with various models, we observed significant improvements in classification accuracy. The CNN model achieved a robust performance, successfully distinguishing between the four classes with high precision, demonstrating the effectiveness of deep learning in medical imaging applications.
 
-Feel free to add or adjust any sections as needed!
+![Example Image](Screenshots/Capture2.jpg)
+![Example Image](Screenshots/Capture3.jpg)
+
+![Example Image](Screenshots/Capture1.png)
