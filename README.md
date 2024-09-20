@@ -6,7 +6,7 @@ This project focuses on the classification of renal CT scans into four categorie
 
 We applied a **Convolutional Neural Network (CNN)** for classification and **YOLO (You Only Look Once)** for object detection. The workflow consists of:
 
-1. **Database Collection**: We utilized a large CT scan database for renal diseases (leave space to insert the link from where the dataset was obtained).
+1. **Database Collection**: We utilized a large CT scan database for renal diseases [(leave space to insert the link from where the dataset was obtained)](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone).
    
 2. **Data Preprocessing**:
    - The dataset was organized into four main classes: **Stone**, **Tumor**, **Cyst**, and **Normal**.
