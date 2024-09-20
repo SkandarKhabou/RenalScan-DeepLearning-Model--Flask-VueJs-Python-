@@ -43,4 +43,6 @@ Through our experiments with various models, we observed significant improvement
 ![Example Image](Screenshots/Capture2.jpg)
 ![Example Image](Screenshots/Capture3.jpg)
 
+## 🖼️ User UI
+
 ![Example Image](Screenshots/Capture1.png)
